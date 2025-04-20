@@ -17,7 +17,6 @@ My name is Jayson and I'm a frontend developer, passionate about improving user 
 ![Vitest](https://img.shields.io/badge/Vitest-729B1B?style=flat&logo=Vitest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=babel&logoColor=white)
-![esbuild](https://img.shields.io/badge/esbuild-FECF02.svg?style=flat&logo=esbuild&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
 
